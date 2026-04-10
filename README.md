@@ -20,7 +20,7 @@ A dynamic React-based website showcasing the Ice Warriors hockey team from Bucha
 
 ## Live Demo
 
-View the live website at: [https://iam269.github.io/Hokey-Retrospective/](https://iam269.github.io/Hokey-Retrospective/)
+View the live website at: [https://itsiamdev.github.io/Hokey-Retrospective/](https://itsiamdev.github.io/Hokey-Retrospective/)
 
 ## Getting Started
 
